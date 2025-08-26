@@ -22,45 +22,45 @@ This dashboard helps marketing teams analyze performance with real-time visibili
 📊 Dashboard Highlights
 📌 Summary Metrics
 
-Total Followers: 127,877,828
+1.Total Followers: 127,877,828
 
-Total Impressions: 102,097,568
+2.Total Impressions: 102,097,568
 
-Total Engagement: 1,607,174
+3.Total Engagement: 1,607,174
 
 👥 Followers by Platform
 
-Instagram – 71,460,676
+1.Instagram – 71,460,676
 
-Facebook – 38,362,560
+2.Facebook – 38,362,560
 
-Twitter – 18,054,592
+3.Twitter – 18,054,592
 
 👀 Impressions Leaderboard
 
-Facebook
+1.Facebook
 
-Instagram
+2.Instagram
 
-Twitter
+3.Twitter
 
 🤝 Engagement Leaderboard
 
-Facebook
+1.Facebook
 
-Twitter
+2.Twitter
 
-Instagram
+3.Instagram
 
 🍩 Engagement by Content Type
 
-Text – 26.64%
+1.Text – 26.64%
 
-Image – 25.38%
+2.Image – 25.38%
 
-Video – 24.13%
+3.Video – 24.13%
 
-Carousel – 23.84%
+4.Carousel – 23.84%
 
 🛠️ Tools & Techniques
 
